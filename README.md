@@ -1,4 +1,3 @@
-
 # Interactive Sphere & Cube
 
 An interactive 3D experience built with Three.js, exploring 3D objects and real-time interaction in the browser.
@@ -34,10 +33,6 @@ npm install
 ```
 
 Start the development server using the command defined in `package.json`.
-
-## Live Demo
-
-Add your live demo URL here.
 
 ## Live Demo
 
